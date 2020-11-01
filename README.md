@@ -178,7 +178,9 @@ After completion the final output from command prompt should look something like
 This means that the archive has been sucessfully rebuilt.
 
 ## STEP 5: Replace the archive in the game files with the modified one.
-This step is fairly simple, you move the rebuilt archive file that you created into the game archive directory and replace it.
+This step is fairly simple, you move the rebuilt archive file that you created into the game archive directory and replace it. Your done!
+
+If you wish to share your mod with others you can put your modified archive file or files into a zip file and share them online with others.
 
 ## Conclusion
 That's it, that is how you make a sound mod for a Telltale Game (Telltale Definitive Series) in this case. It's very simple to do and achieve, later on as work continues on the mod tools, it will be much simpler to make a sound mod (or other) without being as destructive as this is.
