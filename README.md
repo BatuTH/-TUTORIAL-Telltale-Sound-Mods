@@ -17,7 +17,7 @@ A brief summary of the steps and process necessary to create a sound mod for a T
 
 **What is an Archive File?** An archive is a packaged file containing the resources and assets that the game utilizes, their extension ends in ".ttarch2". There are multiple archives associated with a game and each contain different resources. As to what an archive contains can be inffered by their naming scheme. For example "txmesh" stands for textures and meshes, meaning that the archive contains the textures and model assets. In this case we are looking for "ms" which stands for music and sound. Another archive that has sounds as well is the "voice" archive, which contains all of the voice recordings for the characters. 
 
-**How do I know what sounds I can replace?** For exploring the sounds/assets that are in an archive I recomend that you use the **Telltale File Explorer** tool, which allows you to browse through the archive to the view textures, sounds, and even scripts (it can also be used for extracting this data as well). 
+**How do I know what sounds I can replace?** For exploring the sounds/assets that are in an archive I recomend that you use the **Telltale File Explorer** tool, which allows you to browse through the archive to the view textures, sounds, and even scripts (it can also be used for extracting this data as well). You can use this to go through and figure out what sounds you want to replace in advance before extracting them. Be sure to remember the filename and extension of the sounds so you can replace them later.
 
 The **Telltale File Explorer** tool can be downloaded with the following link.
 https://quickandeasysoftware.net/software/telltale-explorer
