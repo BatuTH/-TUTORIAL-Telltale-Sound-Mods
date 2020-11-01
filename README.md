@@ -13,14 +13,14 @@ A brief summary of the steps and process necessary to create a sound mod for a T
 ```
 
 ## STEP 1: Locate the game archive in which you wish to modify. 
-An archive is a packaged file containing the resources and assets that the game utilizes, their extension ends in ".ttarch2". There are multiple archives associated with a game and each contain different resources. As to what an archive contains can be inffered by their naming scheme. For example "txmesh" stands for textures and meshes, meaning that the archive contains the textures and model assets. In this case we are looking for "ms" which stands for music and sound. Another archive that has sounds as well is the "voice" archive, which contains all of the voice recordings for the characters. 
+**What is an Archive File?** An archive is a packaged file containing the resources and assets that the game utilizes, their extension ends in ".ttarch2". There are multiple archives associated with a game and each contain different resources. As to what an archive contains can be inffered by their naming scheme. For example "txmesh" stands for textures and meshes, meaning that the archive contains the textures and model assets. In this case we are looking for "ms" which stands for music and sound. Another archive that has sounds as well is the "voice" archive, which contains all of the voice recordings for the characters. 
 
-For exploring the sounds/assets that are in the archive I recomend that you use the **Telltale File Explorer** tool, which allows you to browse through the archive to the view textures, sounds, and even scripts (it can also be used for extracting this data as well). 
-
-**I recomend making two copies of the archive you will be modifying, one as a backup incase your modifications end up making the game not load. The other is the archive you will be modifying and overwriting.**
+**How do I know what sounds I can replace?** For exploring the sounds/assets that are in an archive I recomend that you use the **Telltale File Explorer** tool, which allows you to browse through the archive to the view textures, sounds, and even scripts (it can also be used for extracting this data as well). 
 
 The **Telltale File Explorer** tool can be downloaded with the following link.
 https://quickandeasysoftware.net/software/telltale-explorer
+
+**I recomend making two copies of the archive you will be modifying, one as a backup incase your modifications end up making the game not load. The other is the archive you will be modifying and overwriting.**
 
 ## STEP 2: Extract the archives contents to a location.
 Using a tool called **ttarchext**, which is a command line application (meaning that you will need to use command prompt to use it, I will teach you how to use this in a moment). This tool will extract the raw data from an archive and dump it into a desired folder.
