@@ -3,7 +3,7 @@ A tutorial detailing how to create sound mods for any Telltale Game. I will be d
 
 **Before you get scared away by this seemingly long post, I spend the time to both teach and explain each step as best I can in detail.** But aside from that, creating a sound mod is really really easy and requires no programming experience.
 
-> NOTE: This is subject to change as we continue to work on the mod tools (which will allow the creation and installation of these mods with ease), but for the time being. This is how you create a sound mod.
+> NOTE: This is subject to change as we continue to work on the [mod tools](https://github.com/Telltale-Modding-Group/SoundModCreator) (which will allow the creation and installation of these mods with ease), but for the time being. This is how you create a sound mod.
 
 A brief summary of the steps and process necessary to create a sound mod for a Telltale title. 
 ```
